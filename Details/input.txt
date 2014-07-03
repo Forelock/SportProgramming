@@ -1,0 +1,5 @@
+4 16
+A....BBBBBBBBBBB
+AAAA..........BB
+A............BBB
+AAAAAAAA.BBBBBBB
